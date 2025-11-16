@@ -1,0 +1,201 @@
+trade_date,ticker,open_price,close_price,volume,sector,validated,currency,exchange,notes
+2025-09-01,Aapl,192.47,191.90,21646536,Technology,NaN,NaN,Nasdaq,Gap Up
+2025-09-01,Msft,456.51,459.76,NaN,Technology,NaN,NaN,NaN,NaN
+2025-09-01,NaN,151.27,150.45,20405836,Consumer Discretionary,NaN,Usd,Nasdaq,NaN
+2025-09-01,NaN,139.61,141.17,12795579,NaN,True,NaN,Nyse,Gap Down
+2025-09-01,NaN,1190.21,1198.56,16389274,Semiconductors,NaN,Usd,Nyse,NaN
+2025-09-01,Tsla,245.81,244.27,13350388,Automotive,NaN,Usd,Nasdaq,NaN
+2025-09-01,Meta,493.91,491.42,12963843,Communication Services,False,Usd,Nasdaq,Gap Down
+2025-09-01,Nflx,603.91,599.53,NaN,Communication Services,NaN,Usd,Nyse,Eod
+2025-09-02,Aapl,NaN,188.92,10513474,Technology,NaN,NaN,Nyse,Pre-Earnings
+2025-09-02,Msft,450.93,NaN,17277392,Technology,NaN,Usd,Nyse,Eod
+2025-09-02,Amzn,NaN,NaN,24690780,Consumer Discretionary,True,NaN,Nyse,NaN
+2025-09-02,NaN,NaN,142.16,10718842,Communication Services,True,NaN,Nyse,NaN
+2025-09-02,Nvda,1180.14,1176.78,14094696,Semiconductors,False,NaN,NaN,Rev Miss
+2025-09-02,Tsla,NaN,242.69,NaN,Automotive,False,Usd,NaN,NaN
+2025-09-02,Meta,493.87,498.86,11887391,Communication Services,True,NaN,Nasdaq,NaN
+2025-09-02,Nflx,NaN,592.66,21608458,Communication Services,NaN,NaN,NaN,Eod
+2025-09-03,Aapl,NaN,191.24,14508076,Technology,NaN,NaN,Nasdaq,Gap Down
+2025-09-03,Msft,461.15,461.28,19595278,Technology,NaN,NaN,NaN,Pre-Earnings
+2025-09-03,Amzn,152.58,152.26,15180231,Consumer Discretionary,True,NaN,Nyse,Gap Up
+2025-09-03,Googl,NaN,142.15,26850869,Communication Services,False,Usd,Nasdaq,NaN
+2025-09-03,Nvda,NaN,1185.85,20497116,Semiconductors,NaN,Usd,Nasdaq,Eod
+2025-09-03,Tsla,246.40,245.27,NaN,Automotive,NaN,NaN,NaN,Gap Up
+2025-09-03,Meta,498.06,503.78,14129142,Communication Services,NaN,NaN,Nyse,NaN
+2025-09-03,Nflx,595.84,NaN,25825512,Communication Services,False,NaN,Nyse,NaN
+2025-09-04,Aapl,191.03,189.90,13637583,NaN,NaN,NaN,Nasdaq,Pre-Earnings
+2025-09-04,Msft,459.39,459.05,NaN,Technology,False,Usd,NaN,Gap Up
+2025-09-04,NaN,153.32,NaN,NaN,NaN,False,NaN,Nasdaq,Rev Miss
+2025-09-04,Googl,NaN,139.76,21481080,Communication Services,False,Usd,NaN,NaN
+2025-09-04,Nvda,1170.02,1168.81,13879183,Semiconductors,True,NaN,Nyse,Gap Up
+2025-09-04,NaN,242.88,NaN,18100553,Automotive,True,NaN,Nyse,Gap Down
+2025-09-04,Meta,497.77,501.24,NaN,Communication Services,True,Usd,NaN,NaN
+2025-09-04,Nflx,598.32,598.00,12610631,Communication Services,True,Usd,NaN,Gap Up
+2025-09-05,NaN,191.78,NaN,16723175,Technology,NaN,NaN,Nyse,NaN
+2025-09-05,Msft,NaN,NaN,8352061,Technology,False,NaN,Nyse,Eod
+2025-09-05,Amzn,151.52,NaN,14869174,Consumer Discretionary,False,NaN,NaN,Pre-Earnings
+2025-09-05,Googl,140.85,139.93,14453664,Communication Services,True,NaN,Nasdaq,NaN
+2025-09-05,Nvda,1182.79,1194.65,26249454,Semiconductors,NaN,Usd,Nasdaq,Gap Down
+2025-09-05,Tsla,NaN,247.70,18533645,Automotive,True,NaN,Nyse,Gap Down
+2025-09-05,Meta,501.15,499.63,13419204,Communication Services,True,NaN,Nasdaq,Gap Down
+2025-09-05,NaN,NaN,615.14,12069464,Communication Services,False,NaN,Nyse,Rev Miss
+2025-09-08,NaN,NaN,191.86,NaN,Technology,NaN,NaN,NaN,Eod
+2025-09-08,Msft,457.52,459.51,NaN,NaN,False,Usd,Nyse,NaN
+2025-09-08,Amzn,151.69,153.27,23437878,Consumer Discretionary,NaN,NaN,NaN,NaN
+2025-09-08,NaN,142.70,142.99,14501755,Communication Services,False,Usd,Nasdaq,Rev Miss
+2025-09-08,Nvda,1176.38,1181.80,7701521,Semiconductors,True,Usd,Nyse,Eod
+2025-09-08,NaN,246.91,NaN,14507099,Automotive,False,NaN,Nasdaq,NaN
+2025-09-08,Meta,492.97,492.95,9875627,Communication Services,NaN,NaN,Nyse,NaN
+2025-09-08,Nflx,598.68,597.17,10608256,Communication Services,NaN,NaN,Nasdaq,NaN
+2025-09-09,NaN,NaN,190.98,15815047,Technology,True,NaN,Nyse,NaN
+2025-09-09,NaN,456.55,451.79,13875045,Technology,NaN,Usd,Nasdaq,Gap Down
+2025-09-09,Amzn,152.16,149.57,12146366,Consumer Discretionary,NaN,NaN,Nyse,Gap Up
+2025-09-09,Googl,137.92,136.55,17649607,Communication Services,NaN,NaN,Nasdaq,Eod
+2025-09-09,Nvda,1170.34,1176.41,26113271,Semiconductors,False,Usd,Nasdaq,Rev Miss
+2025-09-09,Tsla,248.78,247.89,22284450,Automotive,False,NaN,NaN,Rev Miss
+2025-09-09,NaN,501.25,NaN,15043130,Communication Services,True,NaN,NaN,Gap Up
+2025-09-09,Nflx,594.38,593.09,12996923,Communication Services,True,NaN,NaN,NaN
+2025-09-10,Aapl,191.32,192.19,NaN,Technology,NaN,NaN,Nyse,NaN
+2025-09-10,Msft,455.90,453.30,15786843,Technology,True,NaN,Nyse,Eod
+2025-09-10,Amzn,152.64,153.54,16517181,Consumer Discretionary,NaN,Usd,Nyse,Gap Up
+2025-09-10,NaN,139.34,138.02,14327902,Communication Services,True,NaN,Nyse,Eod
+2025-09-10,Nvda,1163.54,1163.42,NaN,Semiconductors,NaN,NaN,NaN,Rev Miss
+2025-09-10,Tsla,246.61,246.59,NaN,Automotive,NaN,NaN,Nyse,Pre-Earnings
+2025-09-10,NaN,NaN,497.72,21308792,Communication Services,NaN,NaN,Nyse,NaN
+2025-09-10,Nflx,608.08,609.44,NaN,Communication Services,NaN,NaN,Nyse,NaN
+2025-09-11,Aapl,191.03,190.36,NaN,Technology,False,NaN,Nasdaq,Gap Up
+2025-09-11,Msft,459.28,457.20,9130603,Technology,False,NaN,NaN,NaN
+2025-09-11,NaN,154.25,154.45,NaN,Consumer Discretionary,True,NaN,Nyse,NaN
+2025-09-11,Googl,141.46,141.49,16925082,Communication Services,True,NaN,Nyse,Gap Up
+2025-09-11,Nvda,1147.86,1145.22,18494202,Semiconductors,NaN,NaN,Nasdaq,NaN
+2025-09-11,NaN,245.57,244.12,13802532,Automotive,NaN,NaN,NaN,Gap Down
+2025-09-11,Meta,500.24,NaN,14020760,NaN,True,NaN,Nasdaq,Gap Down
+2025-09-11,Nflx,599.71,603.93,28234156,Communication Services,True,NaN,Nasdaq,Eod
+2025-09-12,Aapl,NaN,193.87,17695286,Technology,True,Usd,Nyse,Gap Up
+2025-09-12,Msft,458.13,459.11,NaN,NaN,True,NaN,Nyse,NaN
+2025-09-12,NaN,153.37,154.46,15690960,Consumer Discretionary,NaN,Usd,Nasdaq,Pre-Earnings
+2025-09-12,Googl,140.56,NaN,21553254,NaN,True,NaN,Nyse,Eod
+2025-09-12,Nvda,1188.48,1185.35,8148842,Semiconductors,True,Usd,NaN,Rev Miss
+2025-09-12,NaN,250.77,253.02,18937073,Automotive,NaN,NaN,Nasdaq,NaN
+2025-09-12,Meta,493.87,499.66,17390597,Communication Services,NaN,NaN,Nasdaq,NaN
+2025-09-12,Nflx,NaN,601.90,16385756,Communication Services,NaN,NaN,Nasdaq,Rev Miss
+2025-09-15,Aapl,189.63,189.85,18057940,Technology,False,NaN,Nasdaq,NaN
+2025-09-15,NaN,455.65,459.03,24421544,Technology,True,Usd,Nasdaq,Gap Down
+2025-09-15,NaN,154.34,153.27,NaN,Consumer Discretionary,NaN,Usd,NaN,Eod
+2025-09-15,NaN,141.02,141.53,NaN,NaN,NaN,NaN,Nyse,NaN
+2025-09-15,Nvda,NaN,NaN,NaN,Semiconductors,NaN,NaN,Nasdaq,Eod
+2025-09-15,Tsla,246.87,247.52,16971630,Automotive,True,Usd,Nasdaq,Eod
+2025-09-15,Meta,495.26,491.22,19964963,Communication Services,False,NaN,Nasdaq,Rev Miss
+2025-09-15,NaN,602.39,594.98,19970497,NaN,False,Usd,Nyse,Gap Up
+2025-09-16,Aapl,189.26,NaN,11852966,Technology,True,NaN,Nasdaq,NaN
+2025-09-16,Msft,451.59,454.19,20995069,Technology,False,NaN,Nyse,Gap Up
+2025-09-16,Amzn,149.32,NaN,20326822,Consumer Discretionary,True,Usd,Nyse,Gap Up
+2025-09-16,Googl,141.50,139.55,NaN,Communication Services,True,NaN,Nasdaq,Gap Down
+2025-09-16,Nvda,1165.29,1172.28,15811224,Semiconductors,False,NaN,Nyse,NaN
+2025-09-16,Tsla,246.93,246.15,10039069,Automotive,NaN,NaN,Nyse,Pre-Earnings
+2025-09-16,NaN,493.58,487.61,13618139,Communication Services,NaN,NaN,Nyse,Pre-Earnings
+2025-09-16,Nflx,601.33,601.15,12972173,Communication Services,False,NaN,Nyse,NaN
+2025-09-17,Aapl,193.25,191.35,18228217,Technology,NaN,NaN,Nyse,Eod
+2025-09-17,Msft,460.84,NaN,12013389,Technology,NaN,NaN,Nasdaq,Eod
+2025-09-17,Amzn,151.75,NaN,17792887,Consumer Discretionary,True,NaN,Nyse,Gap Down
+2025-09-17,Googl,142.62,143.88,15044928,Communication Services,NaN,NaN,Nyse,Gap Down
+2025-09-17,Nvda,1157.37,1167.72,20225737,Semiconductors,NaN,Usd,Nasdaq,Pre-Earnings
+2025-09-17,NaN,245.82,NaN,14626814,Automotive,NaN,NaN,Nasdaq,NaN
+2025-09-17,Meta,496.12,NaN,17607005,Communication Services,True,Usd,Nyse,NaN
+2025-09-17,Nflx,NaN,589.13,21219337,Communication Services,False,NaN,Nasdaq,NaN
+2025-09-18,Aapl,192.29,NaN,10264251,Technology,NaN,Usd,Nasdaq,Gap Up
+2025-09-18,Msft,469.77,469.20,NaN,NaN,NaN,NaN,Nasdaq,NaN
+2025-09-18,NaN,151.25,NaN,15939208,NaN,False,NaN,Nasdaq,NaN
+2025-09-18,Googl,NaN,143.09,13643371,Communication Services,NaN,NaN,Nasdaq,NaN
+2025-09-18,NaN,NaN,1182.52,18689884,Semiconductors,True,NaN,Nasdaq,Rev Miss
+2025-09-18,Tsla,248.48,NaN,16926640,Automotive,NaN,NaN,NaN,Gap Up
+2025-09-18,Meta,489.98,492.49,14081860,NaN,NaN,Usd,Nasdaq,Gap Down
+2025-09-18,Nflx,601.28,603.35,NaN,Communication Services,NaN,Usd,Nyse,Pre-Earnings
+2025-09-19,Aapl,194.46,195.34,14420971,NaN,False,NaN,Nasdaq,Rev Miss
+2025-09-19,Msft,463.19,465.26,16666909,Technology,True,Usd,NaN,NaN
+2025-09-19,Amzn,147.51,146.91,NaN,Consumer Discretionary,NaN,NaN,Nasdaq,Rev Miss
+2025-09-19,Googl,142.12,140.39,16319618,NaN,True,NaN,Nyse,Rev Miss
+2025-09-19,NaN,1187.91,NaN,14070878,Semiconductors,NaN,Usd,Nasdaq,Eod
+2025-09-19,Tsla,249.10,249.97,18295999,Automotive,False,NaN,Nyse,NaN
+2025-09-19,Meta,492.44,NaN,NaN,Communication Services,True,NaN,Nyse,NaN
+2025-09-19,Nflx,602.35,598.24,NaN,Communication Services,True,NaN,Nyse,Gap Up
+2025-09-22,Aapl,191.22,190.35,13110656,Technology,NaN,Usd,Nyse,Gap Down
+2025-09-22,Msft,455.39,456.08,8276829,NaN,True,NaN,Nasdaq,Gap Down
+2025-09-22,NaN,153.27,153.77,9759391,Consumer Discretionary,False,NaN,Nasdaq,Gap Up
+2025-09-22,Googl,140.47,141.13,12664515,Communication Services,True,NaN,Nyse,Pre-Earnings
+2025-09-22,Nvda,1161.16,1161.84,14654139,Semiconductors,False,NaN,Nasdaq,NaN
+2025-09-22,Tsla,244.43,249.62,23818197,Automotive,True,NaN,Nasdaq,NaN
+2025-09-22,Meta,494.55,492.45,18296496,Communication Services,False,NaN,Nyse,Rev Miss
+2025-09-22,Nflx,607.78,610.89,20957288,Communication Services,False,NaN,Nasdaq,Pre-Earnings
+2025-09-23,Aapl,190.72,192.45,21215631,Technology,False,NaN,Nasdaq,Rev Miss
+2025-09-23,Msft,458.03,457.23,12499333,NaN,False,NaN,Nyse,Pre-Earnings
+2025-09-23,Amzn,NaN,NaN,17727281,Consumer Discretionary,NaN,Usd,Nyse,NaN
+2025-09-23,Googl,140.31,141.13,NaN,Communication Services,True,Usd,NaN,NaN
+2025-09-23,NaN,1163.04,1171.71,NaN,Semiconductors,False,Usd,Nyse,Gap Up
+2025-09-23,Tsla,246.55,NaN,13092898,Automotive,NaN,NaN,Nyse,Eod
+2025-09-23,Meta,497.11,495.49,NaN,Communication Services,True,NaN,Nyse,NaN
+2025-09-23,Nflx,594.55,598.47,10091800,Communication Services,False,NaN,Nasdaq,Pre-Earnings
+2025-09-24,Aapl,191.89,193.26,NaN,Technology,NaN,NaN,Nasdaq,Gap Down
+2025-09-24,NaN,NaN,448.70,17854112,NaN,False,Usd,Nyse,Rev Miss
+2025-09-24,Amzn,152.74,151.31,10422864,Consumer Discretionary,NaN,NaN,NaN,Gap Up
+2025-09-24,Googl,NaN,138.27,23671036,NaN,NaN,NaN,Nasdaq,Pre-Earnings
+2025-09-24,Nvda,1174.66,NaN,19087677,Semiconductors,True,NaN,Nasdaq,Rev Miss
+2025-09-24,Tsla,241.65,240.84,NaN,NaN,NaN,NaN,NaN,Pre-Earnings
+2025-09-24,Meta,498.03,498.36,15046697,Communication Services,NaN,Usd,Nyse,Gap Down
+2025-09-24,Nflx,NaN,609.46,19565436,NaN,False,NaN,NaN,NaN
+2025-09-25,Aapl,190.32,191.00,15829296,Technology,True,NaN,Nasdaq,Gap Down
+2025-09-25,Msft,460.39,465.33,NaN,Technology,False,NaN,Nyse,NaN
+2025-09-25,Amzn,152.42,152.68,NaN,NaN,True,Usd,Nyse,NaN
+2025-09-25,Googl,140.59,140.39,15032508,Communication Services,NaN,NaN,Nasdaq,Pre-Earnings
+2025-09-25,Nvda,NaN,NaN,24854400,Semiconductors,NaN,Usd,Nyse,NaN
+2025-09-25,NaN,NaN,244.64,13844080,Automotive,NaN,NaN,Nyse,Rev Miss
+2025-09-25,Meta,492.18,NaN,17495648,Communication Services,True,NaN,Nasdaq,Pre-Earnings
+2025-09-25,Nflx,601.63,593.82,19759188,Communication Services,NaN,Usd,Nasdaq,NaN
+2025-09-26,NaN,189.58,188.31,NaN,Technology,False,Usd,Nasdaq,Gap Down
+2025-09-26,Msft,459.44,462.15,16868911,Technology,NaN,NaN,Nyse,Eod
+2025-09-26,Amzn,152.05,NaN,20302680,NaN,NaN,NaN,Nyse,Pre-Earnings
+2025-09-26,NaN,141.07,140.02,NaN,Communication Services,True,NaN,NaN,Gap Up
+2025-09-26,Nvda,1186.61,1196.44,16979881,Semiconductors,True,NaN,Nasdaq,Eod
+2025-09-26,Tsla,244.58,NaN,16454864,Automotive,False,NaN,Nasdaq,Gap Up
+2025-09-26,Meta,498.69,501.48,NaN,Communication Services,False,NaN,Nasdaq,NaN
+2025-09-26,Nflx,NaN,597.42,10203960,Communication Services,False,NaN,Nasdaq,Pre-Earnings
+2025-09-29,Aapl,192.90,191.77,13649802,Technology,NaN,NaN,Nasdaq,Gap Up
+2025-09-29,NaN,458.11,458.13,9925289,Technology,NaN,NaN,NaN,Rev Miss
+2025-09-29,Amzn,152.60,152.63,19411228,Consumer Discretionary,NaN,NaN,Nasdaq,Rev Miss
+2025-09-29,Googl,140.04,140.24,20032515,Communication Services,NaN,NaN,Nyse,Gap Down
+2025-09-29,Nvda,1148.04,1154.16,9917099,Semiconductors,True,Usd,Nasdaq,NaN
+2025-09-29,Tsla,NaN,243.76,24687847,Automotive,True,NaN,Nasdaq,NaN
+2025-09-29,Meta,492.21,491.89,15418173,Communication Services,NaN,Usd,Nasdaq,Gap Down
+2025-09-29,Nflx,606.48,602.90,12706336,Communication Services,False,NaN,Nasdaq,Gap Down
+2025-09-30,Aapl,191.65,NaN,13133292,Technology,False,NaN,Nyse,Pre-Earnings
+2025-09-30,Msft,462.20,457.71,16430608,Technology,NaN,NaN,Nyse,NaN
+2025-09-30,Amzn,152.25,151.45,16867818,Consumer Discretionary,NaN,NaN,Nyse,Eod
+2025-09-30,Googl,140.75,142.17,9533871,NaN,False,NaN,NaN,Pre-Earnings
+2025-09-30,Nvda,1185.83,1182.04,15924683,Semiconductors,True,NaN,Nasdaq,Rev Miss
+2025-09-30,Tsla,240.22,237.15,12315540,NaN,NaN,NaN,Nasdaq,Eod
+2025-09-30,Meta,NaN,496.95,12120961,Communication Services,NaN,Usd,Nasdaq,Gap Up
+2025-09-30,Nflx,NaN,NaN,15315890,Communication Services,NaN,Usd,NaN,Pre-Earnings
+2025-10-01,NaN,NaN,194.61,NaN,Technology,NaN,Usd,NaN,NaN
+2025-10-01,Msft,461.41,NaN,18088697,Technology,False,NaN,Nasdaq,NaN
+2025-10-01,NaN,152.28,151.35,11996665,Consumer Discretionary,False,NaN,Nasdaq,Pre-Earnings
+2025-10-01,Googl,141.20,142.05,21916778,Communication Services,True,Usd,Nyse,NaN
+2025-10-01,Nvda,1175.26,1176.72,NaN,Semiconductors,False,Usd,Nyse,NaN
+2025-10-01,Tsla,242.74,244.34,21182912,Automotive,True,NaN,NaN,Gap Down
+2025-10-01,Meta,500.05,496.37,18594788,Communication Services,True,Usd,Nyse,NaN
+2025-10-01,Nflx,604.21,NaN,14276003,NaN,False,NaN,Nyse,NaN
+2025-10-02,Aapl,189.67,NaN,16242276,Technology,NaN,NaN,Nasdaq,NaN
+2025-10-02,Msft,456.77,456.91,NaN,Technology,True,NaN,Nasdaq,NaN
+2025-10-02,NaN,154.17,154.29,17328093,Consumer Discretionary,True,NaN,Nasdaq,NaN
+2025-10-02,Googl,142.74,143.26,16906969,Communication Services,NaN,NaN,Nyse,NaN
+2025-10-02,Nvda,NaN,1176.98,NaN,Semiconductors,False,Usd,Nyse,Eod
+2025-10-02,Tsla,244.33,247.89,21226923,Automotive,NaN,NaN,Nyse,Gap Up
+2025-10-02,NaN,NaN,488.27,18958682,Communication Services,False,NaN,Nasdaq,Rev Miss
+2025-10-02,NaN,594.85,596.41,NaN,Communication Services,True,NaN,Nasdaq,Gap Down
+2025-10-03,Aapl,191.15,191.14,17645740,NaN,NaN,NaN,NaN,NaN
+2025-10-03,Msft,456.55,454.32,NaN,Technology,NaN,NaN,Nyse,NaN
+2025-10-03,Amzn,151.24,150.67,8042702,Consumer Discretionary,True,NaN,Nyse,Rev Miss
+2025-10-03,Googl,NaN,142.58,13081100,Communication Services,False,Usd,Nasdaq,Gap Down
+2025-10-03,Nvda,NaN,1189.83,16429220,Semiconductors,NaN,NaN,NaN,NaN
+2025-10-03,NaN,NaN,247.66,NaN,Automotive,NaN,NaN,Nyse,Pre-Earnings
+2025-10-03,Meta,499.14,500.78,NaN,Communication Services,False,NaN,Nasdaq,NaN
+2025-10-03,Nflx,608.54,606.87,NaN,NaN,True,NaN,NaN,Gap Up
